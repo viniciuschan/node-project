@@ -1,0 +1,6 @@
+{
+    "payment_kind": "payfast",
+    "value": 50.00,
+    "currency": "USD",
+    "description": "Creating test payment"
+}
